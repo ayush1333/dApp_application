@@ -32,11 +32,8 @@ Hardhat (for local blockchain development)
 
 Follow these steps to set up the project locally:
 
-1. Clone the Repository
-   bash
-   git clone https://github.com/your-username/dapp-chat-application.git
-   cd dapp-chat-application
-2. Install Dependencies
+
+1. Install Dependencies
    Install the necessary Node.js packages:
 
 npm install
